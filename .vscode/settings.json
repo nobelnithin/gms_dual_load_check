@@ -1,0 +1,11 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\nithi\\esp\\v5.3.1\\esp-idf",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s2.cfg"
+    ],
+    "idf.toolsPathWin": "C:\\Users\\nithi\\.espressif",
+    "idf.portWin": "COM7",
+    "idf.flashType": "UART"
+}

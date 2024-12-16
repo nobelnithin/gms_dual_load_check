@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "E:/Biostim/GMS/gms_dual_load_check/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
